@@ -4,4 +4,4 @@ get num from user
 if num divided by 2 remains 0
      display "The given number is a even number"
 else
-      display "The given number is a odd number"
+     display "The given number is a odd number"
