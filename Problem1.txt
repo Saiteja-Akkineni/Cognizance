@@ -1,0 +1,10 @@
+This program helps the user to find the any term of the Fibonacci series
+ 
+get num frm user
+set a as 0
+set b as 1
+for i from o to num taking 1 step
+      set c as a
+      add b into a
+      set  b as c
+display c
