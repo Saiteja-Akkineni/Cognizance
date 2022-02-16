@@ -1,7 +1,0 @@
-This program helps user to determine weather a number is odd or even
-
-get num from user
-if num divided by 2 remains 0
-     display "The given number is a even number"
-else
-     display "The given number is a odd number"
