@@ -1,6 +1,6 @@
 This program helps the user to find the any term of the Fibonacci series
  
-get num frm user
+get num from user
 set a as 0
 set b as 1
 for i from o to num taking 1 step
